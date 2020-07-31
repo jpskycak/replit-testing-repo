@@ -1,2 +1,3 @@
 language = "python3"
-run = ""
+#run = "python src/main.py"
+run = "python tests/test_ClassA.py"
